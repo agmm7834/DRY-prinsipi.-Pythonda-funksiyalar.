@@ -1,0 +1,1 @@
+# DRY-prinsipi.-Pythonda-funksiyalar.
